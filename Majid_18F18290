@@ -8,3 +8,5 @@ cgpa = total/4
 print cgpa
 if cgpa>=3.5
 print 50%scholorship
+if cgpa<3.5
+print noScholorship
