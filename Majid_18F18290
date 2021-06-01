@@ -6,3 +6,5 @@ if mark4>=90 print" A Grade"
 Total- mark1+mark2+mark3+mark4
 cgpa = total/4
 print cgpa
+if cgpa>=3.5
+print 50%scholorship
